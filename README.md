@@ -1,4 +1,4 @@
-# KBP_RT_Dose_Predicti
+# KBP-RT-Dose-Prediction-Models 
 The purpose of this work is to compare four novel knowledge-based planning (KBP) algorithms using deep learning to predict three-dimensional (3D) dose distributions of head and neck plans using the same patients’ dataset and quantitative assessment metrics. 
 
 
