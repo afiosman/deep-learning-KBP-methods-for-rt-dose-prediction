@@ -1,5 +1,6 @@
-# KBP-RT-Dose-Prediction-Models 
-The purpose of this work is to compare four novel knowledge-based planning (KBP) algorithms using deep learning to predict three-dimensional (3D) dose distributions of head and neck plans using the same patients’ dataset and quantitative assessment metrics. 
+# Varient-3D-UNets-for-RT-dose-prediction
+
+We compared four novel knowledge-based planning (KBP) algorithms using deep learning to predict three-dimensional (3D) dose distributions of head and neck plans using the AAPM OpenKBP - 2020 Grand Challenge dataset. The base of the four KBP models is the 3D U-Net architecture and included: standard U-Net, attention U-Net, residual U-Net (Res U-Net), and attention Res U-Net.
 
 
 # Availability of data and materials
