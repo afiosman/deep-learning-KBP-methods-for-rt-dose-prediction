@@ -7,5 +7,6 @@ We compared four novel knowledge-based planning (KBP) algorithms using deep lear
 The datasets can be found in the OpenKBP - 2020 AAPM Grand Challenge repository at https://competitions.codalab.org/competitions/23428.
 
 # Paper
+
 Please cite this paper: XXXXXX
 
