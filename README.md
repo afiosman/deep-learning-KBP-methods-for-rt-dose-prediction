@@ -5,4 +5,4 @@ We compared four novel knowledge-based planning (KBP) algorithms using deep lear
 The datasets can be found in the OpenKBP - 2020 AAPM Grand Challenge repository at https://competitions.codalab.org/competitions/23428.
 
 # Paper
-Please cite this paper: XXXXXX
+Please cite this paper: Osman AFI, Tamam NM, Yousif YAM. A comparative study of deep learning-based knowledge-based planning methods for 3D dose distribution prediction of head and neck.J Appl Clin Med Phys. 2023;e14015. https://doi.org/10.1002/acm2.14015
