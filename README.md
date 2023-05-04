@@ -5,6 +5,10 @@ We compared four novel knowledge-based planning (KBP) algorithms using deep lear
 
 Fig. 2. An example of head and neck KBP dose distribution prediction results side-by-side with the ground-truth displayed on different views (axial, coronal, and sagittal) for one patient in the test set. Columns demonstrate the CT image and dose distribution results obtained by 3D U-Net, 3D attention U-Net, 3D Res U-Net, 3D attention Res U-Net, and the ground-truth, respectively. Rows indicate different views and the corresponding dose difference maps.
 
+![image](https://user-images.githubusercontent.com/10604649/236342639-294227e8-b935-48cb-900d-9e97095f6b80.png)
+
+Fig. 3. Additional examples of head and neck KBP dose distribution prediction results with the ground-truth shown on an axial view for 10 in the test set. Columns demonstrate the results by 3D U-Net, 3D attention U-Net, 3D Res U-Net, 3D attention Res U-Net, and the ground-truth, respectively. Rows indicate different patient examples and the corresponding difference maps.
+
 # Availability of data and materials
 The datasets can be found in the OpenKBP - 2020 AAPM Grand Challenge repository at https://competitions.codalab.org/competitions/23428.
 
