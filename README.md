@@ -2,6 +2,7 @@
 We compared four novel knowledge-based planning (KBP) algorithms using deep learning to predict voxel-wise dose for the head and neck radiotherapy treatment plans using similar datasets and assessment metrics. The base of the four KBP models uses the 3D U-Net architecture. They include standard U-Net, attention U-Net, residual U-Net (Res U-Net), and attention Res U-Net.
 
 ![image](https://user-images.githubusercontent.com/10604649/236341412-b6dff400-854b-4efe-9f43-dbf1db41180c.png)
+
 Fig. 2. An example of head and neck KBP dose distribution prediction results side-by-side with the ground-truth displayed on different views (axial, coronal, and sagittal) for one patient in the test set. Columns demonstrate the CT image and dose distribution results obtained by 3D U-Net, 3D attention U-Net, 3D Res U-Net, 3D attention Res U-Net, and the ground-truth, respectively. Rows indicate different views and the corresponding dose difference maps.
 
 # Availability of data and materials
